@@ -1590,7 +1590,7 @@ fieldset:disabled a.btn {
     background-color: #34afd4;
     border-color: #34afd4; }
   .btn-success:focus, .btn-success.focus {
-    box-shadow: 0 0 0 0.2rem rgba(92, 199, 42, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(19, 3, 161, 0.5); }
   .btn-success.disabled, .btn-success:disabled {
     color: #ffffff;
     background-color: #177C9C;
