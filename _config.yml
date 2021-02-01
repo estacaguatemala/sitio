@@ -1,1 +1,35 @@
-theme: jekyll-theme-cayman
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.estacaguatemala.tk
+title: Estaca Guatemala Ciudad
+email: estaca.guatemala@outlook.com
+author: Estaca Guatemala Ciudad
+description: > # "Write an awesome description for your new site here. 
+  Estaca Guatemala Ciudad, de la Iglesia de Jesucristo de los Santos de los Últimos Días.
+  No es un sitio oficial de la iglesia.
+  Anuncios de la Estaca Guatemala Ciudad. Conferencia de Estaca Guatemala.
+copyright: 'Copyright &copy; 2021 Estaca Guatemala Ciudad. Todos los derechos reservados.'
+credits: ''
+#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCPnb6ycTnHRkRYSWao4vwfg
+  - title: Facebook
+    url: https://www.facebook.com/EstacaGuatemala
+#  - title: linkedin
+#    url: 
